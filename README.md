@@ -2,9 +2,14 @@
     <img alt="Be the Hero" src="https://github.com/caducastanha/ecoleta/blob/master/web/src/assets/logo.svg?raw=true"  width="400px" style="border-radius:20px;"/>
 </h1>
 
-<h3 align="center" >
-  Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.
-</h3>
+<h2 align="center" >
+  Seu marketplace
+de coleta de resíduos.
+</h2>
+
+<p align="center">
+    Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.
+</p>
 
 <p align="center">
   <a href="https://github.com/caducastanha" target="_blank">
