@@ -36,7 +36,7 @@ de coleta de resíduos.
   </a>
 </p>
 
-## Projeto
+## :rocket: Projeto
 - ### Backend 
 	 **API express com sqlite3 para comunicação com o frontend web e mobile**
   
@@ -49,3 +49,6 @@ de coleta de resíduos.
    <h1 align="center">
     <img alt="Ecoleta" src="https://github.com/caducastanha/ecoleta/blob/master/web/src/assets/banner.svg?raw=true"  width="400px" style="border-radius:20px;"/>
 </h1>
+
+## :memo: License
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
