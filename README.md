@@ -43,4 +43,6 @@ de coleta de resíduos.
 - ### Mobile 
 	 **Aplicativo mobile em React Native com typescript para encontrar pontos de coleta**
 	 
-   
+   <h1 align="center">
+    <img alt="Ecoleta" src="https://github.com/caducastanha/ecoleta/blob/master/web/src/assets/banner.svg?raw=true"  width="400px" style="border-radius:20px;"/>
+</h1>
