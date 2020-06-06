@@ -15,6 +15,9 @@ de coleta de resíduos.
   <a href="https://github.com/caducastanha" target="_blank">
     <img alt="Made by Cadu Castanha" src="https://img.shields.io/badge/made%20by-caducastanha-informational">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/caducastanha" target="_blank" >
     <img alt="Github - Cadu Castanha" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
   </a>
