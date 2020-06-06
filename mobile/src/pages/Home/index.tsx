@@ -36,7 +36,6 @@ const Home = () => {
   });
 
   useEffect(() => {
-
     if (selectedUf === '0') {
       return;
     }
