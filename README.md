@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Be the Hero" src="https://github.com/caducastanha/ecoleta/blob/master/web/src/assets/logo.svg?raw=true"  width="400px" style="border-radius:20px;"/>
+    <img alt="Ecoleta" src="https://github.com/caducastanha/ecoleta/blob/master/web/src/assets/logo.svg?raw=true"  width="400px" style="border-radius:20px;"/>
 </h1>
 
 <h2 align="center" >
@@ -39,4 +39,8 @@ de coleta de resíduos.
   
 - ### Frontend 
 	 **Aplicação web em ReactJS com typescript para cadastro de novos pontos de coleta**
+	 
+- ### Mobile 
+	 **Aplicativo mobile em React Native com typescript para encontrar pontos de coleta**
+	 
    
